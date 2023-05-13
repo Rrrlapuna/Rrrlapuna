@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif">
 <h1 align="center">Hi 👋, I'm Rashmi Ranjan Rout</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🌱 I’m currently learning **Web development**
